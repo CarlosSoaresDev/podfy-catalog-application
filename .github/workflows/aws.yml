@@ -3,8 +3,8 @@ name: Infra user application
 env:
   service-name: services-catalog
   container-name: catalog-application
-  working-directory-test:  ./app/test/catalog-application.test/
-  working-directory-build: ./app/src/catalog-application/
+  working-directory-test:  ./app/test/podfy-catalog-application.test/
+  working-directory-build: ./app/src/podfy-catalog-application/
   working-directory-root: ./ 
 
 on:
