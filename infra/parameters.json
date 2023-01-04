@@ -2,15 +2,15 @@
   "Parameters": [
     {
       "ParameterKey": "VPC",
-      "ParameterValue": "vpc-05660745134ed005d"
+      "ParameterValue": "vpc-0fec991dfa7b4c255"
     },
     {
       "ParameterKey": "PrivateSubnetOne",
-      "ParameterValue": "subnet-01cb2419e00f4bde2"
+      "ParameterValue": "subnet-0c3287bdab55d5c13"
     },
     {
       "ParameterKey": "PrivateSubnetTwo",
-      "ParameterValue": "subnet-0feeb8c9d4b9e75bb"
+      "ParameterValue": "subnet-066e5a87699cdde99"
     },
     {
       "ParameterKey": "Port",
@@ -18,7 +18,7 @@
     },
     {
       "ParameterKey": "ClusterName",
-      "ParameterValue": "catalog"
+      "ParameterValue": "podfy-catalog"
     },
     {
       "ParameterKey": "Environment",
